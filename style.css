@@ -214,6 +214,10 @@ span {
     background-color: #e2e7e6;
 }
 
+.container img {
+    height: 400px;
+}
+
 .title {
     display: flex;
     align-items: center;
